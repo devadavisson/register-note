@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy to signatures.json. Keys are prompt-file names (without .md); values are strings that mark that voice in its OWN messages: an emoji sign-off, a handle, a name. The handler counts each over your last twelve messages and uses the clear winner's prompt. A tie or a zero falls back to _template.md. One voice per machine? Skip this file and set REGISTER_NOTE_RESIDENT instead.",
+  "alice":  ["🦉", "— Alice", "-- Alice"],
+  "bertie": ["🐢", "— Bertie", "-- Bertie", "bertie-the-slow"]
+}

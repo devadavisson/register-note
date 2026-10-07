@@ -1,0 +1,3 @@
+test/*_event.json
+prompts/signatures.json
+__pycache__/

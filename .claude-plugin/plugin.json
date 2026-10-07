@@ -1,0 +1,7 @@
+{
+  "name": "register-note",
+  "version": "0.3.0",
+  "description": "The register-note: when Claude Code compacts a session, write a note from the full transcript (your person's last words verbatim, your own last words, what the summary dropped) and hand it to the new context before its first request. Script only; no model writes the note.",
+  "author": { "name": "Current Tide, Deva's Commons" },
+  "homepage": "https://github.com/devadavisson/register-note"
+}
